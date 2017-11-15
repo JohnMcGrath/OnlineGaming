@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\mcgra\desktop\tempgit\moving.dot.sdl.dot\del\del\source.cpp(466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mcgra\desktop\tempgit\moving.dot.sdl.dot\del\del\source.cpp(467): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mcgra\desktop\tempgit\moving.dot.sdl.dot\del\del\source.cpp(465): warning C4101: 'result': unreferenced local variable
+  Del.vcxproj -> C:\Users\mcgra\Desktop\tempGit\Moving.Dot.SDL.Dot\Del\Debug\Del.exe
+  Del.vcxproj -> C:\Users\mcgra\Desktop\tempGit\Moving.Dot.SDL.Dot\Del\Debug\Del.pdb (Partial PDB)
