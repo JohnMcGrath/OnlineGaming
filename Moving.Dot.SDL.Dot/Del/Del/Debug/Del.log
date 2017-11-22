@@ -1,6 +1,12 @@
-﻿  Source.cpp
-c:\users\mcgra\desktop\tempgit\moving.dot.sdl.dot\del\del\source.cpp(466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\mcgra\desktop\tempgit\moving.dot.sdl.dot\del\del\source.cpp(467): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\mcgra\desktop\tempgit\moving.dot.sdl.dot\del\del\source.cpp(465): warning C4101: 'result': unreferenced local variable
-  Del.vcxproj -> C:\Users\mcgra\Desktop\tempGit\Moving.Dot.SDL.Dot\Del\Debug\Del.exe
-  Del.vcxproj -> C:\Users\mcgra\Desktop\tempGit\Moving.Dot.SDL.Dot\Del\Debug\Del.pdb (Partial PDB)
+﻿  server.cpp
+c:\users\mcgra\desktop\nov22online\onlinegaming\moving.dot.sdl.dot\del\del\server.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\mcgra\desktop\nov22online\onlinegaming\moving.dot.sdl.dot\del\del\server.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\mcgra\desktop\nov22online\onlinegaming\moving.dot.sdl.dot\del\del\server.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\mcgra\desktop\nov22online\onlinegaming\moving.dot.sdl.dot\del\del\server.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\mcgra\desktop\nov22online\onlinegaming\moving.dot.sdl.dot\del\del\server.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\mcgra\desktop\nov22online\onlinegaming\moving.dot.sdl.dot\del\del\server.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\mcgra\desktop\nov22online\onlinegaming\moving.dot.sdl.dot\del\del\server.cpp(140): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\mcgra\Desktop\Nov22Online\OnlineGaming\Moving.Dot.SDL.Dot\Del\Debug\Del.exe not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\mcgra\Desktop\Nov22Online\OnlineGaming\Moving.Dot.SDL.Dot\Del\Debug\Del.lib and object C:\Users\mcgra\Desktop\Nov22Online\OnlineGaming\Moving.Dot.SDL.Dot\Del\Debug\Del.exp
+  Del.vcxproj -> C:\Users\mcgra\Desktop\Nov22Online\OnlineGaming\Moving.Dot.SDL.Dot\Del\Debug\Del.exe
+  Del.vcxproj -> C:\Users\mcgra\Desktop\Nov22Online\OnlineGaming\Moving.Dot.SDL.Dot\Del\Debug\Del.pdb (Partial PDB)
